@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h2 align="center">eduweb - Education Website</h2>
+  <h2 align="center">EdTech - Education Platform</h2>
 
   EdTech is a learner friendly education website, <br />Responsive for all devices, builded using HTML, CSS, and JavaScript.
 
