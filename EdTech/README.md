@@ -8,7 +8,7 @@
 
   EdTech is a learner friendly education website, <br />Responsive for all devices, builded using HTML, CSS, and JavaScript.
 
-  <a href=" https://sheeba128.github.io/nm_edtech/"><strong>➥ Live Demo</strong></a>
+  <a href="https://sheeba128.github.io/nm_edtech/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
