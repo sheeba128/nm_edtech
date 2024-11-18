@@ -31,13 +31,13 @@ To run **EdTech** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+sudo git clone https://sheeba128.github.io/nm_edtech/EdTech/.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduweb.git
+git clone https://sheeba128.github.io/nm_edtech/EdTech/.git
 ```
 
 ### Contact
